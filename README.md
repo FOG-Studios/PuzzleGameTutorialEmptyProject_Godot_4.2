@@ -1,2 +1,3 @@
-# PuzzleGameTutorialProject_Godot_4.2
-This is a tutorial on making a puzzle game using the Godot game engine. In this tutorial, I use a unique node to make the game. Godot's tilemap. I add a few more nodes to this to make a complete game able to be exported and used.
+# PuzzleGameTutorialEmptyProject_Godot_4.2
+**Empty Project containing no Godot files. Only starter assets and folder setup.**
+This is a tutorial on making a puzzle game using the Godot game engine. In this tutorial, I use a unique node to make the game. Godot's tilemap. I add a few more nodes to make a complete game, able to be exported and played. You can start with this project or download the completed version.
